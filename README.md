@@ -1,3 +1,5 @@
+> **Moved:** this project was merged back into **[diogocarapito/text-to-icpc2](https://github.com/diogocarapito/text-to-icpc2)**, with full history. This repo is archived (read-only).
+
 # text-to-ICPC2 v2
 
 Turns free-text clinical problems or diagnoses, in **PT-PT or English**, into **ICPC-2** codes. It covers the 686 symptom and diagnosis codes and is aimed at Portuguese primary care (MGF). It also learns from how people use it: every prediction and every piece of feedback is logged, and a retrain loop promotes a better model automatically.
